@@ -1,0 +1,6 @@
+D = 10
+SWARM_SIZE = 100
+N_STEPS = 100
+OMEGA = 0.8
+C_1 = 1.0
+c_2 = 1.0
